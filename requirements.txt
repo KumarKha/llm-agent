@@ -1,0 +1,10 @@
+ollama>=0.6.2
+fastapi>=0.136.1
+uvicorn>=0.30.0
+python-dotenv>=1.2.2
+certifi>=2026.4.22
+
+# Google Workspace Services (For the Calendar & Tasks Phase)
+google-api-python-client>=2.100.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
